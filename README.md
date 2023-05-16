@@ -19,9 +19,26 @@
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-coral?style=for-the-badge&logo=Windows)](https://github.com/Stanliberty)
-[![Linux](https://img.shields.io/badge/linux-peach?style=for-the-badge&logo=Linux)](https://github.com/Stanliberty)
+[![Linux](https://img.shields.io/badge/linux-gold?style=for-the-badge&logo=Linux)](https://github.com/Stanliberty)
 [![iOS](https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=apple)](https://github.com/Stanliberty)
 [![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android)](https://github.com/Stanliberty)
+
+<details>
+<p align="center">
+  <a href="https://github.com/Stanliberty">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stanliberty&theme=transparent" />
+  </a>
+  <a href="https://github.com/Stanliberty">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stanliberty&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/Stanliberty">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Stanliberty&theme=transparent" />
+  </a>
+  <a href="https://github.com/Stanliberty">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stanliberty&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
 
 <p align="center">
   <a href="https://github.com/Stanliberty">

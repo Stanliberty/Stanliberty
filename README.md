@@ -1,5 +1,13 @@
 ### Hi there 👋
-
+<p align="left">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Stanley.<br>
+        I currently study computer science at Texas State University.<br>
+    </i><br>
+  <a href="https://www.linkedin.com/in/stanley-nwajiaku-a05aa121a">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
 <!--
 **Stanliberty/Stanliberty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

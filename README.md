@@ -4,7 +4,7 @@
     <i>
         I'm Stanley.<br>
         Currently studying computer science at Texas State University.<br>
-    </i><br>
+    </i><br>align="center"
     <a href="https://www.linkedin.com/in/stanley-nwajiaku-a05aa121a">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>

@@ -11,17 +11,17 @@
 </p>
 
 ### Languages
-[![C++](https://img.shields.io/badge/c++-gold?style=for-the-badge&logo=cplusplus)](https://github.com/Stanliberty)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Stanliberty)
-[![Python](https://img.shields.io/badge/python-green?style=for-the-badge&logo=python)](https://github.com/Stanliberty)
-[![JavaScript](https://img.shields.io/badge/javascript-silver?style=for-the-badge&logo=javascript)](https://github.com/Stanliberty)
-[![CSS](https://img.shields.io/badge/css-red?style=for-the-badge&logo=css3)](https://github.com/Stanliberty)
+[![C++](https://img.shields.io/badge/c++-purple?style=for-the-badge&logo=cplusplus)](https://github.com/Stanliberty)
+[![Java](https://img.shields.io/badge/java-purple?style=for-the-badge&logo=openjdk)](https://github.com/Stanliberty)
+[![Python](https://img.shields.io/badge/python-purple?style=for-the-badge&logo=python)](https://github.com/Stanliberty)
+[![JavaScript](https://img.shields.io/badge/javascript-purple?style=for-the-badge&logo=javascript)](https://github.com/Stanliberty)
+[![CSS](https://img.shields.io/badge/css-purple?style=for-the-badge&logo=css3)](https://github.com/Stanliberty)
 
 ### OS
-[![Windows](https://img.shields.io/badge/Windows-coral?style=for-the-badge&logo=Windows)](https://github.com/Stanliberty)
-[![Linux](https://img.shields.io/badge/linux-gold?style=for-the-badge&logo=Linux)](https://github.com/Stanliberty)
-[![iOS](https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=apple)](https://github.com/Stanliberty)
-[![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android)](https://github.com/Stanliberty)
+[![Windows](https://img.shields.io/badge/Windows-purple?style=for-the-badge&logo=Windows)](https://github.com/Stanliberty)
+[![Linux](https://img.shields.io/badge/linux-purple?style=for-the-badge&logo=Linux)](https://github.com/Stanliberty)
+[![iOS](https://img.shields.io/badge/iOS-purple?style=for-the-badge&logo=apple)](https://github.com/Stanliberty)
+[![Android](https://img.shields.io/badge/Android-purple?style=for-the-badge&logo=android)](https://github.com/Stanliberty)
 
 <details>
 <p align="center">

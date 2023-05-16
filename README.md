@@ -11,12 +11,17 @@
 </p>
 
 ### Languages
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Stanliberty)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Stanliberty)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Stanliberty)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Stanliberty)
+[![C++](https://img.shields.io/badge/c++-green?style=for-the-badge&logo=cplusplus)](https://github.com/Stanliberty)
+[![Java](https://img.shields.io/badge/java-green?style=for-the-badge&logo=openjdk)](https://github.com/Stanliberty)
+[![Python](https://img.shields.io/badge/python-green?style=for-the-badge&logo=python)](https://github.com/Stanliberty)
+[![JavaScript](https://img.shields.io/badge/javascript-green?style=for-the-badge&logo=javascript)](https://github.com/Stanliberty)
 [![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/Stanliberty)
 
+### OS
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Stanliberty)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Stanliberty)
+[![iOS](https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=apple)](https://github.com/Stanliberty)
+[![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android)](https://github.com/Stanliberty)
 
 
 <!--

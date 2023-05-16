@@ -12,10 +12,10 @@
 
 ### Languages
 [![C++](https://img.shields.io/badge/c++-gold?style=for-the-badge&logo=cplusplus)](https://github.com/Stanliberty)
-[![Java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=openjdk)](https://github.com/Stanliberty)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Stanliberty)
 [![Python](https://img.shields.io/badge/python-green?style=for-the-badge&logo=python)](https://github.com/Stanliberty)
 [![JavaScript](https://img.shields.io/badge/javascript-silver?style=for-the-badge&logo=javascript)](https://github.com/Stanliberty)
-[![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/Stanliberty)
+[![CSS](https://img.shields.io/badge/css-red?style=for-the-badge&logo=css3)](https://github.com/Stanliberty)
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-coral?style=for-the-badge&logo=Windows)](https://github.com/Stanliberty)
